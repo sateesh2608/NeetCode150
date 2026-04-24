@@ -1,6 +1,6 @@
 package com.neetcode150.dynamic_programming_2d;
 
-public class Q7EditDistance{
+public class Q9EditDistance{
 
     public static void main(String[] args) {
 
